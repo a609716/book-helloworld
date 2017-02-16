@@ -1,0 +1,11 @@
+<settings>
+ <proxies>
+		<proxy>
+		  <active>true</active>
+		  <protocol>http</protocol>
+		  <port>8443</port>
+			<host>10.42.186.201</host>
+		  <nonProxyHosts>127.0.0.1|localhost|kazan.priv.atos.fr|kazan.priv.atos.fr|qlf-kazan.priv.atos.fr|portal.kazan.priv.atos.fr</nonProxyHosts>
+		</proxy>
+	</proxies>
+</settings>
